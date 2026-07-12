@@ -1,0 +1,15 @@
+# Otomatik keşif testi: repos listesi kısmen boş, discover devrede.
+# Beklenen: yama-museum, yama-flight, yama-health keşfedilir;
+# fork ve pattern dışı repolar atlanır; yama-health elle override edilir.
+owner: yama-hub
+discover: true
+include_pattern: "^yama-"
+exclude: []
+defaults:
+  criticality: normal
+  stale_after_days: 120
+repos:
+  - name: yama-health
+    criticality: high
+    stale_after_days: 90
+    notes: "Elle override edilmiş kayıt"

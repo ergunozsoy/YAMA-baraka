@@ -1,0 +1,51 @@
+# Baraka repo envanteri — YAMA Hub
+#
+# İki kaynak birleşir:
+#   1. discover: true  → owner'ın tüm public repoları otomatik bulunur
+#      (include_pattern'e uyanlar, fork'lar hariç, defaults değerleriyle)
+#   2. repos:          → elle tanımlar; otomatik keşfin üzerine yazar
+#
+# Not: Otomatik keşif GitHub Actions üzerinde çalışır (API erişimi tam).
+# criticality: high | normal | low
+# stale_after_days: bu süre içinde push yoksa "hareketsiz" uyarısı
+
+owner: ergunozsoy
+
+discover: true
+include_pattern: "^YAMA-"   # yalnızca YAMA modülleri; kaldırırsanız tüm repolar taranır
+exclude: []                  # keşiften hariç tutulacak repo adları
+
+defaults:
+  criticality: normal
+  stale_after_days: 120
+
+repos:
+  - name: YAMA-Lokman
+    criticality: high
+    stale_after_days: 90
+    notes: "Sağlık okuryazarlığı, anamnez ve doktora hazırlık yoldaşı"
+
+  - name: YAMA-Deutsch
+    criticality: high
+    stale_after_days: 90
+    notes: "Almanca-Türkçe/İngilizce dil karşılaştırma platformu"
+
+  - name: YAMA-Violin
+    criticality: normal
+    stale_after_days: 120
+    notes: "Kemancılar için dijital çalışma günlüğü (Kotlin)"
+
+  - name: YAMA-Invest
+    criticality: normal
+    stale_after_days: 120
+    notes: "Yatırım disiplini Android uygulaması"
+
+  - name: YAMA-Flight-Assistant
+    criticality: normal
+    stale_after_days: 120
+    notes: "Uçuş asistanı"
+
+  - name: YAMA-Turkologie-Guide
+    criticality: normal
+    stale_after_days: 180
+    notes: "Turkoloji ve Yakın/Ortadoğu çalışmaları FAQ rehberi"

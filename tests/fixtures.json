@@ -1,0 +1,86 @@
+{
+  "/users/yama-hub/repos?per_page=100&page=1&sort=full_name": {
+    "status": 200,
+    "body": [
+      {"name": "yama-museum", "description": "YAMA Museum — müze rehber uygulaması", "fork": false},
+      {"name": "yama-flight", "description": null, "fork": false},
+      {"name": "yama-health", "description": "YAMA Health — sağlık modülü", "fork": false},
+      {"name": "some-fork", "description": "başkasının reposu", "fork": true},
+      {"name": "dotfiles", "description": "kişisel ayarlar (pattern dışı)", "fork": false}
+    ]
+  },
+
+  "/repos/yama-hub/yama-museum": {
+    "status": 200,
+    "body": {
+      "name": "yama-museum",
+      "description": "YAMA Museum — müze rehber uygulaması",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-07-01T10:00:00Z",
+      "open_issues_count": 4,
+      "stargazers_count": 12,
+      "license": {"spdx_id": "MIT"}
+    }
+  },
+  "/repos/yama-hub/yama-museum/contents/": {
+    "status": 200,
+    "body": [
+      {"name": "README.md"}, {"name": "src"}, {"name": "package.json"}, {"name": "LICENSE"}
+    ]
+  },
+  "/repos/yama-hub/yama-museum/contents/README.md": {"status": 200, "body": {"name": "README.md"}},
+  "/repos/yama-hub/yama-museum/contents/SECURITY.md": {"status": 404, "body": {"message": "Not Found"}},
+  "/repos/yama-hub/yama-museum/contents/.github/workflows": {"status": 200, "body": [{"name": "ci.yml"}]},
+  "/repos/yama-hub/yama-museum/releases/latest": {"status": 200, "body": {"tag_name": "v1.2.0"}},
+  "/repos/yama-hub/yama-museum/dependabot/alerts?state=open&per_page=100": {"status": 403, "body": {"message": "forbidden"}},
+
+  "/repos/yama-hub/yama-flight": {
+    "status": 200,
+    "body": {
+      "name": "yama-flight",
+      "description": null,
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2025-09-01T10:00:00Z",
+      "open_issues_count": 23,
+      "stargazers_count": 0,
+      "license": null
+    }
+  },
+  "/repos/yama-hub/yama-flight/contents/": {
+    "status": 200,
+    "body": [{"name": "main.py"}, {"name": ".env"}]
+  },
+  "/repos/yama-hub/yama-flight/contents/README.md": {"status": 404, "body": {"message": "Not Found"}},
+  "/repos/yama-hub/yama-flight/contents/SECURITY.md": {"status": 404, "body": {"message": "Not Found"}},
+  "/repos/yama-hub/yama-flight/contents/.github/workflows": {"status": 404, "body": {"message": "Not Found"}},
+  "/repos/yama-hub/yama-flight/releases/latest": {"status": 404, "body": {"message": "Not Found"}},
+  "/repos/yama-hub/yama-flight/dependabot/alerts?state=open&per_page=100": {"status": 403, "body": {"message": "forbidden"}},
+
+  "/repos/yama-hub/yama-health": {
+    "status": 200,
+    "body": {
+      "name": "yama-health",
+      "description": "YAMA Health — sağlık modülü",
+      "archived": false,
+      "disabled": false,
+      "pushed_at": "2026-06-20T10:00:00Z",
+      "open_issues_count": 2,
+      "stargazers_count": 3,
+      "license": {"spdx_id": "Apache-2.0"}
+    }
+  },
+  "/repos/yama-hub/yama-health/contents/": {
+    "status": 200,
+    "body": [{"name": "README.md"}, {"name": "SECURITY.md"}, {"name": "app"}]
+  },
+  "/repos/yama-hub/yama-health/contents/README.md": {"status": 200, "body": {"name": "README.md"}},
+  "/repos/yama-hub/yama-health/contents/SECURITY.md": {"status": 200, "body": {"name": "SECURITY.md"}},
+  "/repos/yama-hub/yama-health/contents/.github/workflows": {"status": 200, "body": [{"name": "test.yml"}]},
+  "/repos/yama-hub/yama-health/releases/latest": {"status": 404, "body": {"message": "Not Found"}},
+  "/repos/yama-hub/yama-health/dependabot/alerts?state=open&per_page=100": {
+    "status": 200,
+    "body": [{"number": 1}, {"number": 2}]
+  }
+}

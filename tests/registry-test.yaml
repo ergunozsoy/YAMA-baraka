@@ -1,0 +1,19 @@
+# Offline test envanteri (tests/fixtures.json ile birlikte kullanılır)
+owner: yama-hub
+repos:
+  - name: yama-museum
+    criticality: high
+    stale_after_days: 90
+    notes: "Müze rehber uygulaması"
+  - name: yama-flight
+    criticality: normal
+    stale_after_days: 120
+    notes: "Uçuş asistanı"
+  - name: yama-health
+    criticality: high
+    stale_after_days: 90
+    notes: "Sağlık modülü"
+  - name: yama-nota
+    criticality: low
+    stale_after_days: 180
+    notes: "Henüz açılmamış repo (bilerek 404)"
