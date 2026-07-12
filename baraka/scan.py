@@ -89,8 +89,9 @@ def scan(registry_path: str, offline_fixture: str | None = None, base_dir: str =
             })
             continue
 
-        findings = guardian.run(gh, owner, name, repo_data)
-        findings += inspector.run(gh, owner, name, repo_data, stale_after_days=stale)
+        findings = guardian.run(gh, owner, name, repo_data, criticality=criticality)
+        findings += inspector.run(gh, owner, name, repo_data,
+                                  stale_after_days=stale, criticality=criticality)
 
         days_since_push = None
         if repo_data.get("pushed_at"):

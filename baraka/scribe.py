@@ -12,7 +12,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
-from .checks import Finding
+from . import __version__
+from .checks import ICONS, Finding
 
 
 def render_report(results: list[dict], cat_note: Optional[str], owner: str) -> str:
@@ -20,15 +21,21 @@ def render_report(results: list[dict], cat_note: Optional[str], owner: str) -> s
     lines = [
         "# YAMA Hub Sağlık Raporu",
         "",
-        f"Tarama: {now} · Sahip: `{owner}` · Baraka v0.1",
+        f"Tarama: {now} · Sahip: `{owner}` · Baraka v{__version__}",
         "",
         "## Genel durum",
         "",
-        "| Repo | Durum | Kritiklik | Not |",
-        "|---|---|---|---|",
+        "| Repo | Durum | Kritiklik | Bulgular | Not |",
+        "|---|---|---|---|---|",
     ]
     for r in results:
-        lines.append(f"| {r['name']} | {r['health']} | {r['criticality']} | {r['notes']} |")
+        counts = {"fail": 0, "warn": 0, "info": 0, "unknown": 0}
+        for f in r.get("findings", []):
+            if f.level in counts:
+                counts[f.level] += 1
+        parts = [f"{n} {ICONS[lvl]}" for lvl, n in counts.items() if n]
+        summary = " · ".join(parts) if parts else "—"
+        lines.append(f"| {r['name']} | {r['health']} | {r['criticality']} | {summary} | {r['notes']} |")
 
     if cat_note:
         lines += ["", "## Kedi'nin notu", "", f"> {cat_note}"]

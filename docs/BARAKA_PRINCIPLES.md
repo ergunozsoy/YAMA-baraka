@@ -44,6 +44,12 @@ Cevap veremeyen özellik o sürüme girmez.
 Rapor ve gelecekteki karar çıktılarında durumlar şu sözlükle ifade edilir:
 
 - 🟢 **Sağlıklı** — kritik bulgu yok
+- ℹ️ **Bilgi notu** — iyileştirme fırsatı; sağlığı etkilemez
 - 🟡 **Dikkat** — bakım gerektiren bulgu var
 - 🔴 **Kritik** — güvenlik veya işlerlik sorunu var
 - ⚪ **Kontrol edilemedi** — yetki/erişim eksik
+
+**Kritikliğe duyarlı şiddet (v0.1.1):** Aynı eksik her repoda aynı ağırlıkta
+değildir. SECURITY.md eksikliği `high` bir repoda 🟡, deneysel bir repoda ℹ️'dir.
+Güvenlikle doğrudan ilgili bulgular (sızıntı izi) ise kritiklikten bağımsız 🔴'dur.
+Amaç: rapor "her şey sarı" olmasın; gerçekten dikkat gerektiren repolar öne çıksın.
