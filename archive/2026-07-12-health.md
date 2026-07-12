@@ -1,6 +1,6 @@
 # YAMA Hub Sağlık Raporu
 
-Tarama: 2026-07-12 22:26 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
+Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 
 ## Genel durum
 
@@ -8,7 +8,7 @@ Tarama: 2026-07-12 22:26 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 |---|---|---|---|---|
 | YAMA-Architektur-der-deutschen-Sprache | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
 | YAMA-Baharat | 🟢 Sağlıklı | normal | 5 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-baraka | 🟡 Dikkat | normal | 1 🟡 · 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
+| YAMA-baraka | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
 | YAMA-Bridge | 🟢 Sağlıklı | normal | 5 ℹ️ · 1 ⚪ | (otomatik keşif) |
 | YAMA-Dance-Practice-Hub | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
 | YAMA-Dante-Brunnen | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
@@ -69,7 +69,7 @@ Tarama: 2026-07-12 22:26 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
 
-### YAMA-baraka — 🟡 Dikkat
+### YAMA-baraka — 🟢 Sağlıklı
 
 | Kaynak | Kontrol | Durum | Ayrıntı |
 |---|---|---|---|
@@ -78,7 +78,7 @@ Tarama: 2026-07-12 22:26 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 0 gün önce. |
-| Müfettiş | README | 🟡 | README.md yok. |
+| Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
 | Müfettiş | CI | 🟢 | GitHub Actions workflow tanımlı. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
