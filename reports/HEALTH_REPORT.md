@@ -1,41 +1,41 @@
 # YAMA Hub Sağlık Raporu
 
-Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
+Tarama: 2026-07-12 23:17 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 
 ## Genel durum
 
 | Repo | Durum | Kritiklik | Bulgular | Not |
 |---|---|---|---|---|
-| YAMA-Architektur-der-deutschen-Sprache | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-Baharat | 🟢 Sağlıklı | normal | 5 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-baraka | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-Bridge | 🟢 Sağlıklı | normal | 5 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-Dance-Practice-Hub | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-Dante-Brunnen | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-DaZ-Sprachvergleich | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-Deutsch | 🟡 Dikkat | high | 4 🟡 · 1 ℹ️ · 1 ⚪ | Almanca-Türkçe/İngilizce dil karşılaştırma platformu |
-| YAMA-Family-Atlas | 🟢 Sağlıklı | normal | 5 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-Flight-Assistant | 🟡 Dikkat | normal | 1 🟡 · 5 ℹ️ · 1 ⚪ | Uçuş asistanı |
-| YAMA-Human-Compass | 🟢 Sağlıklı | normal | 5 ℹ️ · 1 ⚪ | (otomatik keşif) |
+| YAMA-Architektur-der-deutschen-Sprache | 🟢 Sağlıklı | normal | 3 ℹ️ · 1 ⚪ | Türkçe konuşanlar için Almancanın yapısını karşılaştırmalı anlatan 10 modüllü dijital öğrenme portalı |
+| YAMA-Baharat | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Üç dilli (TR/DE/EN) interaktif Baharat Atlası: baharat kartları, etimoloji, tarih ve ticaret yolları |
+| YAMA-baraka | 🟢 Sağlıklı | normal | 3 ℹ️ · 1 ⚪ | YAMA Hub repolarının bakımını, güvenliğini ve sağlığını izleyen yönetim katmanı — haftalık otomatik tarama ve rapor |
+| YAMA-Bridge | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Almanya-Türkiye arasında yaşayanlar için üç dilli oryantasyon platformu: haber, aile, iş, hukuk, kültür |
+| YAMA-Dance-Practice-Hub | 🟢 Sağlıklı | normal | 3 ℹ️ · 1 ⚪ | Dans dersleri, pratik videoları ve öğrenme materyallerini düzenleyen sade web uygulaması |
+| YAMA-Dante-Brunnen | 🟢 Sağlıklı | normal | 3 ℹ️ · 1 ⚪ | MU Münih'teki Max Faller Dante Çeşmesi (1965) için beş dilli dijital anıt ve belgeleme projesi |
+| YAMA-DaZ-Sprachvergleich | 🟢 Sağlıklı | normal | 3 ℹ️ · 1 ⚪ | Kontrastive Linguistik Deutsch-Englisch: 20 Einheiten für die DaZ/DaF-Lehrerbildung mit automatischer PDF-Erzeugung -   Türkçe-Almanca karşıtsal dilbilim referans platformu: DaZ öğretimi için 19 modül (fonetik, morfoloji, sözdizimi) |
+| YAMA-Deutsch | 🟢 Sağlıklı | high | 1 ℹ️ · 1 ⚪ | Almanca-Türkçe/İngilizce dil karşılaştırma platformu |
+| YAMA-Family-Atlas | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Aile kalıplarını psikoloji ve sistem teorisiyle inceleyen üç dilli eleştirel analiz atlası (eğitim amaçlı) |
+| YAMA-Flight-Assistant | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Uçuş asistanı |
+| YAMA-Human-Compass | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Üç dilli karar analizi prototipi: paydaş, risk, etik ve karşı argüman analiziyle yapılandırılmış karar desteği |
 | YAMA-Invest | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Yatırım disiplini Android uygulaması |
-| YAMA-Lokman | 🟡 Dikkat | high | 3 🟡 · 1 ℹ️ · 1 ⚪ | Sağlık okuryazarlığı, anamnez ve doktora hazırlık yoldaşı |
+| YAMA-Lokman | 🟡 Dikkat | high | 1 🟡 · 1 ℹ️ · 1 ⚪ | Sağlık okuryazarlığı, anamnez ve doktora hazırlık yoldaşı |
 | YAMA-muhtasar-turkce-gramer-1928 | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Muhtasar Türkçe Gramer 1928 Harf İnkılabı Sonrası Türkçenin Fonetik ve Morfolojik Kuruluşu |
-| YAMA-Museum | 🟢 Sağlıklı | normal | 5 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-Nota | 🟢 Sağlıklı | normal | 5 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-Osmanisch-Lektuere | 🟡 Dikkat | normal | 1 🟡 · 5 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-SineFil | 🟢 Sağlıklı | normal | 5 ℹ️ · 1 ⚪ | (otomatik keşif) |
+| YAMA-Museum | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Kişisel fotoğraf ve açıklamalarla Türkiye ve Almanya müzelerini tanıtan statik müze rehberi |
+| YAMA-Nota | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Tek sayfalık minimal HTML web projesi (GitHub Pages); içerik henüz erken aşamada |
+| YAMA-Osmanisch-Lektuere | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Osmanlıca okuma çalışmaları için web tabanlı ders ve okuma materyali |
+| YAMA-SineFil | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Kişisel sinema arşivi: filmler, yönetmenler, koleksiyonlar ve unutulmaz sahneler — fil maskotlu SineFil prototipi |
 | YAMA-sprachvergleich-de-en | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
 | YAMA-Stupidity-Checker | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-Time-Traveling-App | 🟢 Sağlıklı | normal | 5 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-Tours | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
-| YAMA-Turkce-Ders-Notlari | 🟢 Sağlıklı | normal | 5 ℹ️ · 1 ⚪ | (otomatik keşif) |
+| YAMA-Time-Traveling-App | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Fotoğrafların tarihsel-kültürel bağlamını analiz edip zaman yolculuğu anlatıları üreten deneysel uygulama |
+| YAMA-Tours | 🟢 Sağlıklı | normal | 3 ℹ️ · 1 ⚪ | Akademik kaynaklı üç dilli kültür rotaları platformu: Türkiye miras alanları, rehberler ve zaman yolculuğu |
+| YAMA-Turkce-Ders-Notlari | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | LMU Münih ders notlarından interaktif Türkçe dilbilgisi platformu: 4 seviye, 50 konu, alıştırmalar (DE/TR) |
 | YAMA-Turkologie-Guide | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Turkoloji ve Yakın/Ortadoğu çalışmaları FAQ rehberi |
-| YAMA-Video-Atlas | 🟢 Sağlıklı | normal | 5 ℹ️ · 1 ⚪ | (otomatik keşif) |
+| YAMA-Video-Atlas | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | YouTube Data API ile canlı video araması yapan tarayıcı tabanlı video atlası (test sürümü v1) |
 | YAMA-Violin | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Kemancılar için dijital çalışma günlüğü (Kotlin) |
 
 ## Kedi'nin notu
 
-> 🐈 YAMA-SineFil reposunun kapısında isim tabelası yok (description boş). İçeride ne olduğunu sadece bilenler biliyor.
+> 🐈 Bugün YAMA-SineFil reposunda gezindim. Her şey olağan görünüyordu; biraz uyudum, sonra gittim.
 
 ## Ayrıntılar
 
@@ -49,7 +49,7 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 1 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -64,7 +64,7 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 14 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -79,7 +79,7 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 0 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | 🟢 | GitHub Actions workflow tanımlı. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -94,7 +94,7 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 13 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -109,7 +109,7 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 14 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -124,7 +124,7 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 6 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -139,22 +139,22 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 2 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | 🟢 | GitHub Actions workflow tanımlı. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
 
-### YAMA-Deutsch — 🟡 Dikkat
+### YAMA-Deutsch — 🟢 Sağlıklı
 
 | Kaynak | Kontrol | Durum | Ayrıntı |
 |---|---|---|---|
-| Bekçi | Lisans | 🟡 | Lisans dosyası yok (public repo 'tüm hakları saklı' sayılır). |
-| Bekçi | SECURITY.md | 🟡 | SECURITY.md yok. |
+| Bekçi | Lisans | 🟢 | Lisans: MIT |
+| Bekçi | SECURITY.md | 🟢 | Güvenlik politikası mevcut. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟢 | Son push 4 gün önce. |
-| Müfettiş | README | 🟡 | README.md yok. |
-| Müfettiş | Açıklama | 🟡 | Repo açıklaması boş. |
+| Müfettiş | Aktiflik | 🟢 | Son push 0 gün önce. |
+| Müfettiş | README | 🟢 | README.md mevcut. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | 🟢 | GitHub Actions workflow tanımlı. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -169,12 +169,12 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 14 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
 
-### YAMA-Flight-Assistant — 🟡 Dikkat
+### YAMA-Flight-Assistant — 🟢 Sağlıklı
 
 | Kaynak | Kontrol | Durum | Ayrıntı |
 |---|---|---|---|
@@ -182,9 +182,9 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟢 | Son push 34 gün önce. |
-| Müfettiş | README | 🟡 | README.md yok. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Aktiflik | 🟢 | Son push 0 gün önce. |
+| Müfettiş | README | 🟢 | README.md mevcut. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -199,7 +199,7 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 15 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -223,11 +223,11 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 
 | Kaynak | Kontrol | Durum | Ayrıntı |
 |---|---|---|---|
-| Bekçi | Lisans | 🟡 | Lisans dosyası yok (public repo 'tüm hakları saklı' sayılır). |
-| Bekçi | SECURITY.md | 🟡 | SECURITY.md yok. |
+| Bekçi | Lisans | 🟢 | Lisans: MIT |
+| Bekçi | SECURITY.md | 🟢 | Güvenlik politikası mevcut. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟢 | Son push 33 gün önce. |
+| Müfettiş | Aktiflik | 🟢 | Son push 0 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | 🟡 | CI workflow tanımlı değil. |
@@ -257,9 +257,9 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟢 | Son push 2 gün önce. |
+| Müfettiş | Aktiflik | 🟢 | Son push 3 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -274,12 +274,12 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 30 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
 
-### YAMA-Osmanisch-Lektuere — 🟡 Dikkat
+### YAMA-Osmanisch-Lektuere — 🟢 Sağlıklı
 
 | Kaynak | Kontrol | Durum | Ayrıntı |
 |---|---|---|---|
@@ -287,9 +287,9 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟢 | Son push 1 gün önce. |
-| Müfettiş | README | 🟡 | README.md yok. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Aktiflik | 🟢 | Son push 0 gün önce. |
+| Müfettiş | README | 🟢 | README.md mevcut. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -304,7 +304,7 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 0 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -349,7 +349,7 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 14 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -364,7 +364,7 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 3 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | 🟢 | GitHub Actions workflow tanımlı. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -379,7 +379,7 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 15 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
@@ -409,7 +409,7 @@ Tarama: 2026-07-12 22:32 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
 | Müfettiş | Aktiflik | 🟢 | Son push 9 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
-| Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
+| Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
