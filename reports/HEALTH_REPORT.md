@@ -1,6 +1,6 @@
 # YAMA Hub Sağlık Raporu
 
-Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
+Tarama: 2026-11-16 14:48 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 
 ## Genel durum
 
@@ -11,7 +11,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | YAMA-baraka | 🟢 Sağlıklı | normal | 3 ℹ️ · 1 ⚪ | YAMA Hub repolarının bakımını, güvenliğini ve sağlığını izleyen yönetim katmanı — haftalık otomatik tarama ve rapor |
 | YAMA-Bridge | 🟡 Dikkat | normal | 1 🟡 · 4 ℹ️ · 1 ⚪ | Almanya-Türkiye arasında yaşayanlar için üç dilli oryantasyon platformu: haber, aile, iş, hukuk, kültür |
 | YAMA-Dance-Practice-Hub | 🟢 Sağlıklı | normal | 3 ℹ️ · 1 ⚪ | Dans dersleri, pratik videoları ve öğrenme materyallerini düzenleyen sade web uygulaması |
-| YAMA-Dante-Brunnen | 🟢 Sağlıklı | normal | 3 ℹ️ · 1 ⚪ | MU Münih'teki Max Faller Dante Çeşmesi (1965) için beş dilli dijital anıt ve belgeleme projesi |
+| YAMA-Dante-Brunnen | 🟡 Dikkat | normal | 1 🟡 · 3 ℹ️ · 1 ⚪ | MU Münih'teki Max Faller Dante Çeşmesi (1965) için beş dilli dijital anıt ve belgeleme projesi |
 | YAMA-DaZ-Sprachvergleich | 🟡 Dikkat | normal | 1 🟡 · 3 ℹ️ · 1 ⚪ | Kontrastive Linguistik Deutsch-Englisch: 20 Einheiten für die DaZ/DaF-Lehrerbildung mit automatischer PDF-Erzeugung -   Türkçe-Almanca karşıtsal dilbilim referans platformu: DaZ öğretimi için 19 modül (fonetik, morfoloji, sözdizimi) |
 | YAMA-Deutsch | 🟡 Dikkat | high | 1 🟡 · 1 ℹ️ · 1 ⚪ | Almanca-Türkçe/İngilizce dil karşılaştırma platformu |
 | YAMA-Family-Atlas | 🟡 Dikkat | normal | 1 🟡 · 4 ℹ️ · 1 ⚪ | Aile kalıplarını psikoloji ve sistem teorisiyle inceleyen üç dilli eleştirel analiz atlası (eğitim amaçlı) |
@@ -22,7 +22,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | YAMA-muhtasar-turkce-gramer-1928 | 🟡 Dikkat | normal | 1 🟡 · 4 ℹ️ · 1 ⚪ | Muhtasar Türkçe Gramer 1928 Harf İnkılabı Sonrası Türkçenin Fonetik ve Morfolojik Kuruluşu |
 | YAMA-Museum | 🟡 Dikkat | normal | 1 🟡 · 4 ℹ️ · 1 ⚪ | Kişisel fotoğraf ve açıklamalarla Türkiye ve Almanya müzelerini tanıtan statik müze rehberi |
 | YAMA-Nota | 🟡 Dikkat | normal | 1 🟡 · 4 ℹ️ · 1 ⚪ | Tek sayfalık minimal HTML web projesi (GitHub Pages); içerik henüz erken aşamada |
-| YAMA-Osmanisch-Lektuere | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Osmanlıca okuma çalışmaları için web tabanlı ders ve okuma materyali |
+| YAMA-Osmanisch-Lektuere | 🟡 Dikkat | normal | 1 🟡 · 4 ℹ️ · 1 ⚪ | Osmanlıca okuma çalışmaları için web tabanlı ders ve okuma materyali |
 | YAMA-SineFil | 🟢 Sağlıklı | normal | 4 ℹ️ · 1 ⚪ | Kişisel sinema arşivi: filmler, yönetmenler, koleksiyonlar ve unutulmaz sahneler — fil maskotlu SineFil prototipi |
 | YAMA-sprachvergleich-de-en | 🟡 Dikkat | normal | 1 🟡 · 4 ℹ️ · 1 ⚪ | (otomatik keşif) |
 | YAMA-Time-Traveling-App | 🟡 Dikkat | normal | 1 🟡 · 4 ℹ️ · 1 ⚪ | Fotoğrafların tarihsel-kültürel bağlamını analiz edip zaman yolculuğu anlatıları üreten deneysel uygulama |
@@ -34,7 +34,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 
 ## Kedi'nin notu
 
-> 🐈 Bugün YAMA-Turkologie-Guide reposunda gezindim. Her şey olağan görünüyordu; biraz uyudum, sonra gittim.
+> 🐈 Bugün YAMA-Turkce-Ders-Notlari reposunda gezindim. Her şey olağan görünüyordu; biraz uyudum, sonra gittim.
 
 ## Ayrıntılar
 
@@ -46,7 +46,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 121 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 128 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -61,7 +61,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 134 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 141 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -76,7 +76,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟢 | Son push 7 gün önce. |
+| Müfettiş | Aktiflik | 🟢 | Son push 6 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | 🟢 | GitHub Actions workflow tanımlı. |
@@ -91,7 +91,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 133 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 140 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -106,14 +106,14 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟢 | Son push 107 gün önce. |
+| Müfettiş | Aktiflik | 🟢 | Son push 114 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
 
-### YAMA-Dante-Brunnen — 🟢 Sağlıklı
+### YAMA-Dante-Brunnen — 🟡 Dikkat
 
 | Kaynak | Kontrol | Durum | Ayrıntı |
 |---|---|---|---|
@@ -121,7 +121,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟢 | Son push 119 gün önce. |
+| Müfettiş | Aktiflik | 🟡 | Son push 126 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -136,7 +136,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 121 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 128 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | 🟢 | GitHub Actions workflow tanımlı. |
@@ -151,7 +151,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | 🟢 | Güvenlik politikası mevcut. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 119 gün önce (eşik: 90). |
+| Müfettiş | Aktiflik | 🟡 | Son push 126 gün önce (eşik: 90). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | 🟢 | GitHub Actions workflow tanımlı. |
@@ -166,7 +166,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 134 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 141 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -185,7 +185,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 134 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 141 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -208,7 +208,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 123 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 130 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -223,7 +223,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 122 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 129 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -238,14 +238,14 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 149 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 156 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
 | Müfettiş | Açık issue | 🟢 | 0 açık issue. |
 | Müfettiş | Sürüm | ℹ️ | Hiç release yayınlanmamış. |
 
-### YAMA-Osmanisch-Lektuere — 🟢 Sağlıklı
+### YAMA-Osmanisch-Lektuere — 🟡 Dikkat
 
 | Kaynak | Kontrol | Durum | Ayrıntı |
 |---|---|---|---|
@@ -253,7 +253,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟢 | Son push 119 gün önce. |
+| Müfettiş | Aktiflik | 🟡 | Son push 126 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -268,7 +268,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟢 | Son push 110 gün önce. |
+| Müfettiş | Aktiflik | 🟢 | Son push 117 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -283,7 +283,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 121 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 128 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | ℹ️ | Repo açıklaması boş. |
 | Müfettiş | CI | 🟢 | GitHub Actions workflow tanımlı. |
@@ -298,7 +298,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 133 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 140 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -313,7 +313,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟢 | Son push 110 gün önce. |
+| Müfettiş | Aktiflik | 🟢 | Son push 117 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | 🟢 | GitHub Actions workflow tanımlı. |
@@ -328,7 +328,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 134 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 141 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -343,7 +343,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟢 | Son push 152 gün önce. |
+| Müfettiş | Aktiflik | 🟢 | Son push 159 gün önce. |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -358,7 +358,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 129 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 136 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
@@ -373,7 +373,7 @@ Tarama: 2026-11-09 15:11 UTC · Sahip: `ergunozsoy` · Baraka v0.1.1
 | Bekçi | SECURITY.md | ℹ️ | SECURITY.md yok. |
 | Bekçi | Sızıntı izi | 🟢 | Kök dizinde şüpheli dosya yok. |
 | Bekçi | Dependabot | ⚪ | Kontrol edilemedi (token yetkisi gerekli). |
-| Müfettiş | Aktiflik | 🟡 | Son push 132 gün önce (eşik: 120). |
+| Müfettiş | Aktiflik | 🟡 | Son push 139 gün önce (eşik: 120). |
 | Müfettiş | README | 🟢 | README.md mevcut. |
 | Müfettiş | Açıklama | 🟢 | Repo açıklaması girilmiş. |
 | Müfettiş | CI | ℹ️ | CI workflow tanımlı değil. |
